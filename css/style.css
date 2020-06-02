@@ -1,0 +1,47 @@
+h1 {
+    font-family: 'Palanquin', sans-serif;
+    font-weight: 700;
+}
+
+.mySlides {
+    display: none;
+}
+
+body, html{
+    height: 100%;
+}
+
+figure {
+    margin: 10px;
+}
+
+audio {
+    display: block;
+    width: 25vw;
+    height: 6vh;
+}
+
+figcaption {
+    font-family: 'Palanquin', sans-serif;
+    font-weight: 800;
+    font-size: 13px;
+    margin-left: 5px;
+}
+
+.fs {
+    /* Full height */
+    height: 100%;
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.img-1 {
+    background-image: url("../img/line-1.jpg");
+  }
+
+.img-2-1 {
+    background-image: url("../img/line-2-1.jpg");
+  }
